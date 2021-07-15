@@ -9,6 +9,6 @@ commands :
     
 In the terminal command to be executed 
         "python3 ytube.py #youtube video url# "
-  In windows 
+In windows 
         "py ytube.py #youtube video url# "
         
