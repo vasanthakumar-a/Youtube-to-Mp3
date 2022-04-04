@@ -7,17 +7,26 @@ body{
 	color: pink;
 	text-transform: uppercase;
 	padding-left: 20%;
+	padding-right: 10%;
 	padding-bottom: 1%;
 	padding-top: 2%;
 
 }
 
 .value{
-	padding-left: 35%;
+	display: inline;
+	padding-left: 40%;
 }
+
+
 .btn{
 	color: black;
 	background-color: rgb(228, 60, 124);
-	
-
+	padding: 15px 25px;
+	border:none;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: progress;
 }
