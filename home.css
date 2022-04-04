@@ -3,12 +3,21 @@ body{
 }
 
 
-h1{
-	color: cyan;
-	position: absolute;
+.text,h1{
+	color: pink;
+	text-transform: uppercase;
+	padding-left: 20%;
+	padding-bottom: 1%;
+	padding-top: 2%;
 
 }
 
-div{
-	position: relative;
+.value{
+	padding-left: 35%;
+}
+.btn{
+	color: black;
+	background-color: rgb(228, 60, 124);
+	
+
 }
