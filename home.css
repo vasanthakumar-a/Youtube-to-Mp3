@@ -21,6 +21,9 @@ input[type=text]{
 	margin: 8px 0;
 	margin: 4px 2px;
 	box-sizing: border-box;
+	justify-content: center;
+	display: flex;
+	align-items: center;
 }
 
 
