@@ -1,1 +1,4 @@
-console.log("wait");
+function myfun()
+{
+    getElementById("id");
+}
